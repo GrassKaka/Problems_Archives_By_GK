@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="521cd178-c8dc-4d18-8c23-9ee934ad0d1e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_3rd_Largest_prime_factor.py" beforeDir="false" afterPath="$PROJECT_DIR$/_3rd_Largest_prime_factor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_4st_Largest_palindrome_product.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,28 +13,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_1st_Multiples_3and5.py">
+        <entry file="file://$PROJECT_DIR$/_3rd_Largest_prime_factor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_2nd_Even_Fibonacci_numbers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="616">
+              <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_3rd_Largest_prime_factor.py">
+        <entry file="file://$PROJECT_DIR$/_4st_Largest_palindrome_product.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+            <state relative-caret-position="270">
+              <caret line="28" column="71" lean-forward="true" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -67,6 +57,7 @@
         <option value="$PROJECT_DIR$/_1st_Multiples_3and5.py" />
         <option value="$PROJECT_DIR$/_2nd_Even_Fibonacci_numbers.py" />
         <option value="$PROJECT_DIR$/_3rd_Largest_prime_factor.py" />
+        <option value="$PROJECT_DIR$/_4st_Largest_palindrome_product.py" />
       </list>
     </option>
   </component>
@@ -115,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python._3rd_Largest_prime_factor">
+  <component name="RunManager" selected="Python._4st_Largest_palindrome_product">
     <configuration name="_1st_Multiples_3and5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problems_Archives_By_GK" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,8 +170,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="_4st_Largest_palindrome_product" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Problems_Archives_By_GK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_4st_Largest_palindrome_product.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python._4st_Largest_palindrome_product" />
         <item itemvalue="Python._3rd_Largest_prime_factor" />
         <item itemvalue="Python._2nd_Even_Fibonacci_numbers" />
         <item itemvalue="Python._1st_Multiples_3and5" />
@@ -219,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564239317973</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Complete 3rd problem">
+      <created>1564303798140</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1564303798140</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView">
@@ -268,9 +288,17 @@
     <MESSAGE value="Complete 1st problem" />
     <MESSAGE value="Complete 2nd problem" />
     <MESSAGE value="Testing 3rd problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing 3rd problem" />
+    <MESSAGE value="Complete 3rd problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete 3rd problem" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_2nd_Even_Fibonacci_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_1st_Multiples_3and5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -278,17 +306,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_2nd_Even_Fibonacci_numbers.py">
+    <entry file="file://$PROJECT_DIR$/_3rd_Largest_prime_factor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="616">
+          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_3rd_Largest_prime_factor.py">
+    <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/959216962/builtins.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="28" column="45" lean-forward="true" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+        <state relative-caret-position="2">
+          <caret line="3036" column="29" selection-start-line="3036" selection-start-column="25" selection-end-line="3036" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4st_Largest_palindrome_product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="28" column="71" lean-forward="true" selection-start-line="28" selection-start-column="71" selection-end-line="28" selection-end-column="71" />
         </state>
       </provider>
     </entry>

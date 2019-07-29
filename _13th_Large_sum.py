@@ -229,3 +229,7 @@ handled_string = digits_string.replace('\n', ' ').strip().split(' ')
 np_list = np.array(list(map(str2int, handled_string))).reshape(100,1)
 
 logging.debug(str(reduce(sum, np_list))[1:11])
+
+"""
+2019-07-29 14:16:23,809 - [DEBUG] : 5537376230
+"""

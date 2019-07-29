@@ -42,6 +42,14 @@ def countDivisors(number):
             count += 2
     return count
 
+# n = 0 # 起始数字为0
+# i = 0 # 起始增量为0
+# count = 0 # 起始除数数量为0
+# while count < 500: # 除数个数小于500
+#     i += 1
+#     n = i*(i+1)/2
+#     count = countDivisors(n) # 计算被除数的除数个数
+
 
 n = 0 # 起始数字为0
 i = 0 # 起始增量为0

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="521cd178-c8dc-4d18-8c23-9ee934ad0d1e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_16th_Power_digit_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_17th_Number_letter_counts.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,14 +37,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_16th_Power_digit_sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="33" column="64" lean-forward="true" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+            <state relative-caret-position="99">
+              <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
               <folding>
                 <element signature="e#24#38#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_17th_Number_letter_counts.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="88" column="13" lean-forward="true" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -127,12 +136,13 @@
         <option value="$PROJECT_DIR$/_13th_Large_sum.py" />
         <option value="$PROJECT_DIR$/_15th_Lattice_paths.py" />
         <option value="$PROJECT_DIR$/_16th_Power_digit_sum.py" />
+        <option value="$PROJECT_DIR$/_17th_Number_letter_counts.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="38" />
-    <option name="y" value="43" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-11" />
+    <option name="y" value="28" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -175,28 +185,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python._16th_Power_digit_sum">
-    <configuration name="_12th_Highly_divisible_triangular_number" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Problems_Archives_By_GK" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_12th_Highly_divisible_triangular_number.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python._17th_Number_letter_counts">
     <configuration name="_13th_Large_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Problems_Archives_By_GK" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -281,13 +270,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="_17th_Number_letter_counts" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Problems_Archives_By_GK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_17th_Number_letter_counts.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python._17th_Number_letter_counts" />
         <item itemvalue="Python._16th_Power_digit_sum" />
         <item itemvalue="Python._15th_Lattice_paths" />
         <item itemvalue="Python._13th_Large_sum" />
         <item itemvalue="Python._14th_Longest_Collatz_sequence" />
-        <item itemvalue="Python._12th_Highly_divisible_triangular_number" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +424,14 @@
       <option name="project" value="LOCAL" />
       <updated>1564387942657</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Complete 16th problem">
+      <created>1564643710102</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1564643710102</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView">
@@ -427,15 +444,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="38" y="43" width="1346" height="688" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27599388" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26860118" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4985119" visible="true" weight="0.29422382" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4985119" visible="true" weight="0.32131147" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -476,7 +493,8 @@
     <MESSAGE value="Complete 13th problem" />
     <MESSAGE value="Complete 14th problem" />
     <MESSAGE value="Complete 15th problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Complete 15th problem" />
+    <MESSAGE value="Complete 16th problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete 16th problem" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.PyCharmCE2019.1/system/python_stubs/959216962/builtins.py">
@@ -646,11 +664,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_16th_Power_digit_sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="33" column="64" lean-forward="true" selection-start-line="33" selection-start-column="64" selection-end-line="33" selection-end-column="64" />
+        <state relative-caret-position="99">
+          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
           <folding>
             <element signature="e#24#38#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_17th_Number_letter_counts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="88" column="13" lean-forward="true" selection-start-line="88" selection-start-column="13" selection-end-line="88" selection-end-column="13" />
         </state>
       </provider>
     </entry>
